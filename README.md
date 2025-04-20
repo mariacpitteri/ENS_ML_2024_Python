@@ -1,6 +1,6 @@
 # Machine Learning for Cognitive Sciences: Tutorials & Exam
 
-This repository contains my tutorials and final exam for the Master's module **Machine Learning for Cognitive Sciences: Principles and Applications** at *École Normale Supérieure (ENS)*.
+This repository contains example tutorials and final exam for the Master's module **Machine Learning for Cognitive Sciences: Principles and Applications** at *École Normale Supérieure (ENS)*.
 
 The module focused on neural data analysis and introduced computational tools to model and interpret such data using machine learning techniques.
 
